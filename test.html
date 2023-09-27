@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Informatica</title>
+    <link rel="stylesheet" href="opmaak.css">
+    <meta charset="utf-8">
+    <style>
+        /* Voeg hier je CSS-stijlen voor het dropdownmenu toe */
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <ul>
+        <li><a href="index.html">Homepagina</a></li>
+        <li class="dropdown">
+            <a href="#">Onderwerpen</a>
+            <div class="dropdown-content">
+                <a href="opslagmedia.html">Opslagmedia</a>
+                <a href="fysieke-laag.html">Fysieke laag</a>
+                <a href="processor.html">Een processor</a>
+                <!-- Voeg hier de links naar andere onderwerpen toe -->
+            </div>
+        </li>
+        <li><a href="lagenmodel.html">Uitleg over 3 lagen model</a></li>
+    </ul>
+
+    <!-- Rest van je pagina-inhoud hier -->
+
+</body>
+</html>
