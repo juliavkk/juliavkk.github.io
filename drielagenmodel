@@ -1,0 +1,102 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html-element--> 
+      <head> <!--dit is het bovenste gedeelte van je pagina-->
+        /* Dropdown Button */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+        <title>Kleurmodellen</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="opmaak.css"> <!-- de link naar de opmaak van css-->
+      </head>
+
+      <body>
+      
+
+        <br>
+        <ul> 
+          <li><a href="index.html">Homepagina</a></li>
+          <li><a href="binairstelsel.html">Uitleg over Binair stelsel</a></li>
+          <li><a href="kleurmodellen.html">Uitleg over Kleurmodellen</a></li>
+          <li><a href="opslag.html">Uitleg over opslag van afbeeldingen en geluid</a></li>
+      <li><a href="onderwerpen.html">Uitleg over alle onderwerpen</a></li>
+      <li><a href="drielagenmodel.html">  3 lagen model </a></li>
+          <!-- menu -->
+        </ul>
+        <h3>3 lagen model</h3>
+        <p> </p>
+        <p>Het drie-lagenmodel bestaat uit drie niveaus van organisatiecultuur: de artefacten, aangenomen waarden en
+         basisveronderstellingen.</p>
+        </p> Deze lagen zijn zowel zichtbaar als onzichtbaar. Dit geeft volgens Schein inzicht in de complexiteit van
+           organisatiecultuur. </p>
+           <br>
+          </p>  -  De fysieke laag (physical layer) is de eerste (onderste) laag uit het OSI model. 
+      Deze bevat de elektrische en mechanische definities van transportmedium en het signaal.
+      De fysieke laag beschrijft drie zaken:
+      Het vertalen van binaire informatie in een signaal en andersom.
+      De definitie van de mechanische karakteristieken van kabel, connectoren (stekkers) en maximale lengte.
+      De definitie van de signaalkarakteristieken zoals: het elektrische signaal bij transport over koper, 
+      het optische signaal bij transport over glasvezel of het radiosignaal bij transport door de ether.
+      <br>
+      De logische laag schermt de toepassingen af van de onderliggende hardware: 
+      je kunt daardoor eenzelfde toepassing combineren met allerlei verschillende hardware.
+      De logische laag schermt ook de hardware af van de toepassingen:
+      je kunt dezelfde hardware gebruiken voor allerlei verschillende toepassingen.
+      Door de logische laag is de evolutie van de toepassingen onafhankelijk van de evolutie van de hardware. 
+      Je kunt bestaande toepassingen gebruiken op (bijna) elke nieuwe computer. 
+      En je hoeft niet voor elke nieuwe toepassing een nieuwe computer te kopen.
+       Zowel de evolutie van de hardware als die van de software kunnen daardoor veel sneller verlopen.
+<br> 
+        </p> 
+<p> </p> <!-- de uitleg-->
+        <br> 
+<a href="">
+        <img src="" style="width:400px;height:300px;" 
+
+        
+        
+        
+        
+
+        
+      <img src="kleurmodellen uitleg.PNG" style="width:400px;height:300px;"
+
+      </body>
+</html>
