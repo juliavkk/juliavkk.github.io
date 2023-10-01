@@ -34,7 +34,7 @@
       De definitie van de signaalkarakteristieken zoals: het elektrische signaal bij transport over koper, 
       het optische signaal bij transport over glasvezel of het radiosignaal bij transport door de ether.
       <br>
-      De logische laag schermt de toepassingen af van de onderliggende hardware: 
+        </p>- De logische laag schermt de toepassingen af van de onderliggende hardware: 
       je kunt daardoor eenzelfde toepassing combineren met allerlei verschillende hardware.
       De logische laag schermt ook de hardware af van de toepassingen:
       je kunt dezelfde hardware gebruiken voor allerlei verschillende toepassingen.
