@@ -1,24 +1,23 @@
 <!DOCTYPE html> <!--dit is de homepage van mijn site-->
 <html> <!--dit is het html-element--> 
       <head> <!--dit is het bovenste gedeelte van je pagina-->
-        <title>Kleurmodellen</title>
-        <meta charset="utf-8">
+        <title>Informatica</title>
         <link rel="stylesheet" href="opmaak.css"> <!-- de link naar de opmaak van css-->
+        <meta charset="utf-8"
       </head>
-
       <body>
+      <br>
       
-
-        <br>
-        <ul> 
+      <ul> 
           <li><a href="index.html">Homepagina</a></li>
           <li><a href="binairstelsel.html">Uitleg over Binair stelsel</a></li>
           <li><a href="kleurmodellen.html">Uitleg over Kleurmodellen</a></li>
           <li><a href="opslag.html">Uitleg over opslag van afbeeldingen en geluid</a></li>
-      <li><a href="onderwerpen.html">Uitleg over alle onderwerpen</a></li>
-      <li><a href="drielagenmodel.html">  3 lagen model </a></li>
+          <li><a href="onderwerpen.html">Uitleg over alle onderwerpen</a></li>
+          <li><a href="drielagenmodel.html">  3 lagen model </a></li>
           <!-- menu -->
         </ul>
+
         <h3>3 lagen model</h3>
         <p> </p>
         <p>Het drie-lagenmodel bestaat uit drie niveaus van organisatiecultuur: de artefacten, aangenomen waarden en
@@ -44,19 +43,6 @@
        Zowel de evolutie van de hardware als die van de software kunnen daardoor veel sneller verlopen.
        <br> 
        </p> - De toepassingslaag is de laag die samenwerkt met de fysieke laag.
-        </p> 
-<!-- de uitleg-->
-        <br> 
-<a href="">
-        <img src="" style="width:400px;height:300px;" 
-
-        
-        
-        
-        
-
-        
-      <img src="kleurmodellen uitleg.PNG" style="width:400px;height:300px;"
-
+       </p>
       </body>
 </html>
