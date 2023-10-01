@@ -5,8 +5,8 @@
         <link rel="stylesheet" href="opmaak.css"> <!-- de link naar de opmaak van css-->
         <meta charset="utf-8"
       </head>
-      <body>
       <br>
+      <body>
       
       <ul> 
           <li><a href="index.html">Homepagina</a></li>
